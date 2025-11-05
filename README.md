@@ -22,4 +22,3 @@ E.g. curl http://localhost:8080/test_data/simpsons.mp4?start=36
 
 The resulting stream will be a subset of the original MP4 movie, starting as near to the specified starting time as possible.
 
-
