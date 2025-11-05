@@ -37,7 +37,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.neilbliss.Mp4PseudoServer</mainClass>
+            <mainClass>com.erinbliss.Mp4PseudoServer</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>
